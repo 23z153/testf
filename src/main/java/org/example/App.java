@@ -1,9 +1,5 @@
 package org.example;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static int addtions(int a,int b) {return a+b;}
